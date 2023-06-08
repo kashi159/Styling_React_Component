@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GOAL_LISTER</string>
+    <string name="title_activity_main">GOAL_LISTER</string>
+    <string name="package_name">io.ionic.goal_lister</string>
+    <string name="custom_url_scheme">io.ionic.goal_lister</string>
+</resources>

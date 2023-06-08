@@ -1,8 +1,11 @@
 {
-    "appId": "io.ionic.GOAL_LISTER",
-    "appName": "GOAL_LISTER",
-    "bundledWebRuntime": false,
-    "npmClient": "npm",
-    "webDir": "build",
-    "cordova": {}
+  "appId": "io.ionic.goal_lister",
+  "appName": "GOAL_LISTER",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {},
+  "server": {
+    "androidScheme": "https"
   }
+}
